@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++ and luau
 - 💞️ I’m looking to collaborate on some of my projects
 - 📫 How to reach me None for now sorry
+- I am pretty cool though you know...
 
 <!---
 FiercestNewt/FiercestNewt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
